@@ -10,11 +10,11 @@ The NIFTY 50 is a benchmark Indian stock market index that represents the weight
 
 
 Tools Used:<br>
--VSCode [IDE]
+- VSCode [IDE]
 
 Libaries & Frameworks Used:<br>
--Pyspark<br>
--Pandas
+- Pyspark<br>
+- Pandas
 
 
 
